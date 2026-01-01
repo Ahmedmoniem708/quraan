@@ -1,0 +1,2 @@
+[console_scripts]
+quran-muaalem-ui = quran_muaalem.gradio_app:main

@@ -1,0 +1,30 @@
+# Core ML and Audio Processing
+torch>=2.0.0
+transformers>=4.30.0
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web Framework and API
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
+
+# UI Framework
+gradio>=3.40.0
+
+# HTTP Requests
+requests>=2.31.0
+httpx>=0.24.0
+
+# Audio Processing
+pydub>=0.25.0
+ffmpeg-python>=0.2.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Existing project dependencies
+quran-transcript
